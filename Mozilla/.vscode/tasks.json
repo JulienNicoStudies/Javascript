@@ -1,0 +1,12 @@
+{
+    "label":"explorer",
+    "version": "1.0.0",
+    "command": "explorer",    
+    "windows": {
+        "command": "explorer.exe"
+    },
+    "args": [
+        "${file}"
+    ],
+    "problemMatchers": []
+}
